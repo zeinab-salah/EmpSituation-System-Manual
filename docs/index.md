@@ -31,62 +31,62 @@
 <b>يحتوي النظام على عدد من الصلاحيات وكل صلاحية لها أدوار معينه و شاشات معينة </b>
 ### 1- شاشة تسجيل الدخول للنظام
 
-![Login Image](/images/Login.png)
+![Login](images/Login.png)
 
 # مدخل البيانات (Maker)
 تكمن صلاحية مدخل البيانات بإدخال او تعديل او حذف موقف الموظف قبل التصديق او ادخال موقف جديد للموظف.
 ### 2- الشاشة الرئيسية لمدخل البيانات 
  
- ![Maker Index](/images/indexformaker.png)
+![Maker Index](images/indexformaker.png)
 
 ### 3- شاشة إضافة موقف جديد لموظف 
 
-![Add Emp Status](/images/AddEmp.png)
+![Add Emp Status](images/AddEmp.png)
 
 * <b>عند الضغط على زر إضافة موظف يظهر فورم يحتوي على تفاصيل الموظف ليتم إضافة حالته</b>
 
-![ِAdd form Image](/images/addform.png)
+![ِAdd form Image](images/addform.png)
 
 ### 4-شاشة الحالات المعلقة
 <b> يوجد في هذه الشاشة حالات الموظفين التى لم يتم تصرحيها بعد و يمكن عرض او تعديل او حذف هذه الحاله قبل التصريح</b>
 
-![EMpStuts Image](/images/EmpStatus.png)
+![EmpStatus](images/EmpStatus.png)
 
 * <b> عند الضغط على زر العرض يظهر فورم يحتوي على تفاصيل الموظف و من خلال هذه الشاشه يمكن الذهاب الى شاشة التعديل او الحذف</b>
 
-![EMpStutsView Image](/images/view.png)
+![view](images/view.png)
 
 * <b> عند الضغط على زر التعديل يظهر فورم لتعديل موقف الموظف اذا كان التعديل على بيانات الموظف الأساسيه لا يحتاج الى تصريح لكن اذا تم تعديل موقف عمل الموظف لا ينعكس التعديل الا بعد التصريح</b>
 
 
-![EditForm Image](/images/Edit.png)
+![Edit](images/Edit.png)
 
 * <b>عند الضغط على زر الحذف يظهر فورم به بيانات الموظف نقوم بإختيار سبب حذف الموظف و تاريخ الحذف
 
-![DeleteForm Image](/images/Delete.png)
+![Delete](images/Delete.png)
 
 ### 5- شاشة إدارة حالة الموظفين
 <b>هذه الشاشه تحتوى على كل الموظفين الذين تم إضافة مواقفهم و حالاتهم و يمكن من خلالها عرض بيانات الموظف او تعديله او حذفه</b>
 
-![EmpStatusMange Image](/images/EmpStatusMange.png)
+![EmpStatusMange](images/EmpStatusMange.png)
 
 # المصدق (Checker)
  يقوم المصدق بقبول او رفض الموقف المدخل للموظف بصوره فردية وهنا نعني كل موظف على حده او للتسهيل يمكن التصديق على عدد من الموظفين بخطوة واحدة.
 
 ### 6-الشاشة الرئيسية للمصدق
 
- ![Index cheaker](/images/Indexcheaker.png)
+![Indexcheaker](images/Indexcheaker.png)
 
 ### 7- شاشة إدارة حالة الموظفين
 الشاشه تحتوى على كل الموظفين الذين تم إضافة مواقفهم و حالاتهم و من خلالها يتمكن من عرض بيانات كل موظف
 
-![EmpStatusMange Image](/images/MangeEmp.png)
+![MangeEmp](images/MangeEmp.png)
 
 ### 8- شاشة الحالات المعلقة
 
  يوجد في هذه الشاشة حالات الموظفين التى لم يتم تصرحيها بعد و من خلال هذه الشاشه يقوم المصدق برفض حالة موظف( و عند رفض حالة الموظف تعود لمدخل البيانات بحالة رفض و يمكن ان يقوم بتعديلها مره أخرى أو حذفها )او تصريح حالة موظف او تصريح كل الحالات المعلقة
 
- ![EmpStatusCheaker Image](/images/EmpStatusCheaker.png)
+![EmpStatusCheaker](images/EmpStatusCheaker.png)
 
 # المستعرض (Viewer)
 يمكن للمستعرض عرض جميع تقارير موقف الموظفين .
